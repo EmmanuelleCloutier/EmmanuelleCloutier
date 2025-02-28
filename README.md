@@ -1,6 +1,6 @@
-Hillo Im Emmanuelle Cloutier 
-Currently locate at Chicoutimi,Qc,Canada and Gatineau/Ottawa, Canada
-Im studying in Game Developpement and Design at University du Québec at Chicoutimi 
+Hello, I'm Emmanuelle Cloutier.
+Currently based in Chicoutimi, QC, Canada, and Gatineau/Ottawa, Canada.
+I am studying Game Development and Design at the University of Québec in Chicoutimi.
 
-I program mostly with Unreal Engine but I know Unity and Godot. 
-Ive program web application, infographic and network too! 
+I primarily program with Unreal Engine, but I am also familiar with Unity and Godot.
+I have experience programming web applications, creating infographics, and working with networking as well!
