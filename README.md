@@ -10,6 +10,12 @@ Recent projects include Critters Eat, a collaborative student game where I contr
 #  GitHub Stat:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelleCloutier&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=EmmanuelleCloutier&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelleCloutier&theme=vue-dark&hide_border=true)
+
+
+
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmmanuelleCloutier&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
