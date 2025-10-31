@@ -1,4 +1,3 @@
-# Hello there !
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlnODBjc2pjdHloZmFiZnY0czN2cTk1MWZtdGVwdzd6YnFjeGEwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 #  About Me:
