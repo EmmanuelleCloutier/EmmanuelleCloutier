@@ -1,5 +1,5 @@
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI0YXNsc2hlYjQxbmg5ZW1sOWdkYWt2cDZzZ3F3aDY0Z2I4aWttcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBgLUNirfk1Xs2s/giphy.gif)
-
+ 
 #  About Me: 
 I'm Emmanuelle Cloutier. Currently based in Chicoutimi, QC, Canada, and Gatineau/Ottawa, Canada. I'm currently studying Video Game Development at UQAC, with a strong focus on creating engaging gameplay features, dynamic NPC behaviors, and complex, rewarding player experiences. I'm deeply passionate about designing systems that feel alive and meaningful, from moment-to-moment interactions to layered mechanics.
 
