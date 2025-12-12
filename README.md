@@ -17,6 +17,6 @@ Recent projects include Critters Eat, a collaborative student game where I contr
 ![](https://github-profile-trophy.vercel.app/?username=EmmanuelleCloutier&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmmanuelleCloutier&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EmmanuelleCloutier&icon=0&color=3)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
