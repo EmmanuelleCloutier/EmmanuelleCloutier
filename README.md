@@ -1,9 +1,9 @@
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1paWVpZnhxczR6ZDhnYXA5b243OWhtN2U5cHJtamkwancxYmMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H7raUu552z7AllNso/giphy.gif)
  
 #  About Me:  
-I'm Emmanuelle Cloutier. Currently based in Chicoutimi, QC, Canada and Gatineau/Ottawa, Canada. I'm currently studying Video Game Development at UQAC, with a strong focus on creating engaging gameplay features, dynamic NPC behaviors, and complex, rewarding player experiences. I'm deeply passionate about designing systems that feel alive and meaningful, from moment-to-moment interactions to layered mechanics.
+I'm Emmanuelle Cloutier. Currently based in Chicoutimi, QC, Canada and Gatineau/Ottawa, Canada. I'm currently studying Video Game Development at UQAC, with a strong focus on creating engaging gameplay features, dynamic NPC behaviors, and complex, rewarding player experiences. I'm deeply passionate about designing and programming systems that feel alive and meaningful, from moment-to-moment interactions to layered mechanics.
 
-Skilled in C++, C#, Unity, Unreal Engine (Blueprints & C++), and Godot, I also bring a strong background in math, problem-solving, and team collaboration. I thrive when building prototypes, polishing gameplay loops, and implementing intelligent, believable characters that enhance the depth of a game.
+Skilled in C++, C#, Unity, Unreal Engine (Blueprints & C++), and Godot, I also bring a strong background in math, problem-solving, and team collaboration. I thrive when building prototypes, polishing gameplay loops and implementing intelligent, believable characters that enhance the depth of a game.
 Recent projects include Critters Eat, a collaborative student game where I contributed to core gameplay mechanics and worked closely with artists and fellow programmers. 
 
 
